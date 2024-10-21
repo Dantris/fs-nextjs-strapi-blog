@@ -1,5 +1,7 @@
 ## NextJS Blog with Strapi as CMS (initial Draft - work in progress)
 
+NextJS with Sass as styling
+
 ![1](./1.png)
 
 

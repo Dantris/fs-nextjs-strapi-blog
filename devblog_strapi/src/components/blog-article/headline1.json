@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_blog_article_headline1s",
+  "info": {
+    "displayName": "headline1"
+  },
+  "options": {},
+  "attributes": {
+    "headline": {
+      "type": "string",
+      "required": true
+    },
+    "slug": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

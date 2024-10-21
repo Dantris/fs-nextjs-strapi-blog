@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_blog_article_paragraph1s",
+  "info": {
+    "displayName": "paragraph1"
+  },
+  "options": {},
+  "attributes": {
+    "paragraph": {
+      "type": "blocks",
+      "required": true
+    }
+  }
+}
